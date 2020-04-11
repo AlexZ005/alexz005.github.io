@@ -13,5 +13,6 @@ git fetch theme
 git merge --no-commit --no-ff theme/master
 rm -rf _chapters/
 git checkout HEAD _chapters/
-git checkout HEAD README.md
+git checkout HEAD _config.yml
+git checkout HEAD index.md
 git stash pop
