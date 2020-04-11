@@ -29,10 +29,13 @@ twitter_username: AlexZ005
 github_username:  AlexZ005
 
 # Build settings
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
   - jekyll-asciidoc
+  - jekyll-remote-theme
+
+remote_theme: alexz005/jekyll-notes
 
 asciidoc: {}
 asciidoctor:
