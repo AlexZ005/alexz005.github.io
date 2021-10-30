@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<pre>
 ## Blender shortcuts
 
 Compositing
@@ -85,3 +85,4 @@ Optimal display is a cool feature, when too much poligons
 Ctrl+Alt+Shift + C → Origin to 3D Cursor
 Tools> Origin to 3D cursor
 
+</pre>
