@@ -8,3 +8,5 @@ layout: index
 Chapters link:chapters/chapters.html[chap]
 
 Subsribe via link:feed.xml[RSS]
+
+![Processing](https://i.imgur.com/Xr0d4jz.png)
